@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Iliyana Michevska
+- 🎓 I'm studying in the Vocational School of Computer Programming and Innovations
+- 👀 I’m interested in coding and doing sports
+- 💻 I’m currently learning C++, HTML5 and CSS3
+- 📫 My email is: @INMichevska20@codingburgas.bg
