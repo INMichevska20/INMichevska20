@@ -4,15 +4,14 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  				   				School process
 
-- 🎓 Vocational School of Computer Programming and Innovations
-- 💻 C++, HTML5 and CSS3
-- 🍼 Beginner in GitHub
+- 🎓 Class 9A in Vocational School of Computer Programming and Innovations
+- 💻 C++, HTML5, CSS3 and JavaScript
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 							        Leisure activities
 
-- 👀 Testing different codes
-- 🔰 Playing football (or running in the park) 
-- 🌄 Mountain climbing
+- ✈ Travelling around the world
+- 🔰 Climbing and cycling
+- 🌄 Ascending peaks
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 							              Quotes
