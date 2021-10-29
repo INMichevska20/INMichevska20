@@ -4,9 +4,9 @@
 
 <img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif" />
 
-## My interests:
--🗻 Wall climbing and hiking <br>
--💻 Testing different codes
+## My hobbies:
+-🗻 Wall climbing and hiking above 2000 meters<br>
+-✈ Travelling all around the world
 
 <hr>
 
@@ -55,3 +55,10 @@
 
 - 👁‍ You can see my repositories on [Github](https://github.com/INMichevska20?tab=repositories). 
 - 📧 My email is: INMichevska20@codingburgas.bg
+
+<hr>
+<div align="center">
+
+# Believe you can and you are halfway there!
+
+</div>
