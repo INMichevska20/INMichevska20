@@ -5,7 +5,7 @@
 <img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif" />
 
 ## My hobbies:
--🗻 Athlethics, wall climbing and hiking above 2000 meters<br>
+-🗻 Athlethics, climbing, hiking above 2000 meters<br>
 -✈ Travelling all around the world
 
 <hr>
