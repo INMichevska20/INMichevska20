@@ -2,6 +2,10 @@
 
 <hr>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=INMichevska20&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
+<br>
+
 <img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif" />
 
 ## My hobbies:
