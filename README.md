@@ -19,11 +19,11 @@
 <code><img alt="CPP" width="38px" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" ></code>
 <code><img alt="HTML" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
 <code><img alt="CSS" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" ></code>
-<code><img alt="WORD" width="73px" src="https://logos-brand.com/wp-content/uploads/2020/06/Microsoft-Word-Logo.png" ></code>
-<code><img alt="EXCEL" width="45px" src="https://www.thenfapost.com/wp-content/uploads/2020/09/Microsoft_Office_Excel.png" ></code>
+<code><img alt="WORD" width="71px" src="https://logos-brand.com/wp-content/uploads/2020/06/Microsoft-Word-Logo.png" ></code>
+<code><img alt="EXCEL" width="42px" src="https://www.thenfapost.com/wp-content/uploads/2020/09/Microsoft_Office_Excel.png" ></code>
 <code><img alt="VS" width="65px" src="https://www.jorgehoya.es/wp-content/uploads/2021/01/visualstudio.png"></code>
-<code><img alt="VS CODE" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img alt="GITHUB" width="47px" src="https://cdn.onlinewebfonts.com/svg/img_415633.png"></code>
+<code><img alt="VS CODE" width="43px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img alt="GITHUB" width="44px" src="https://cdn.onlinewebfonts.com/svg/img_415633.png"></code>
 
 <hr>
 
