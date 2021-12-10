@@ -9,7 +9,7 @@
 <img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif" />
 
 ## My hobbies:
--🗻 Athlethics, climbing, hiking above 2000 meters<br>
+-🗻 Athletics, climbing, hiking above 2000 meters<br>
 -✈ Travelling all around the world
 
 <hr>
@@ -17,6 +17,7 @@
 ## My abilities:
 
 <code><img alt="CPP" width="38px" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" ></code>
+<code><img alt="PYTHON" width="43px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" ></code>
 <code><img alt="HTML" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
 <code><img alt="CSS" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" ></code>
 <code><img alt="WORD" width="71px" src="https://logos-brand.com/wp-content/uploads/2020/06/Microsoft-Word-Logo.png" ></code>
