@@ -55,7 +55,7 @@
   <br>
   <br>
   <br>
-<a href ="https://www.credly.com/earner/earned/badge/db6334b6-9c64-4421-bec4-967556511fa2"><img align="left" alt="JavaScript" width="90px" src="https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" ></a></code>
+<a href ="https://www.credly.com/earner/earned/badge/e7554add-bc5a-4e0e-9445-6bef73440c2d"><img align="left" alt="JavaScript" width="90px" src="https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" ></a></code>
 </details>
 <br>
 <br>
