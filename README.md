@@ -1,12 +1,6 @@
 # Hello, I am [Iliyana Michevska](https://github.com/INMichevska20/INMichevska20/)👋
 
-<hr>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=INMichevska20&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-
-<br>
-
-<img align="right" height="250" width="375" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 # Some information about me:
 
@@ -16,13 +10,11 @@
 -🎓I am a student in VSCPI<br>
 -🧩I am interested in web development<br>
 
-<hr>
+<img align="right" height="300" width="450" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
 
 ## Hobbies:
 -🗻 Athletics, climbing, hiking above 2000 meters<br>
 -✈ Travelling all around the world
-
-<hr>
 
 ## Language and Tools:
 
@@ -31,9 +23,7 @@
 <code><img alt="HTML" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
 <code><img alt="CSS" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" ></code>
 <code><img alt="JS" width="42px" height = "42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"></code>
-<code><img alt="NODE.JS" width= "120px" height = "42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png"></code>
-
-<hr>
+<code><img alt="NODE.JS" width= "130px" height = "42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png"></code>
 
 ## Progress and  achievements:
 
@@ -60,16 +50,15 @@
 <br>
 <br>
 
-<hr>
-
 ## Connection:
 
 - 👁‍ You can see my repositories on [Github](https://github.com/INMichevska20?tab=repositories). 
 - 📧 My email is: INMichevska20@codingburgas.bg
 
 <hr>
+
 <div align="center">
 
-# Believe you can and you are halfway there!
+## Believe you can and you are halfway there!
 
 </div>
