@@ -6,9 +6,19 @@
 
 <br>
 
-<img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
-## My hobbies:
+# Some information about me:
+
+<hr>
+
+## Personality:
+-🎓I am a student in VSCPI<br>
+-🧩I am interested in web development<br>
+
+<hr>
+
+## Hobbies:
 -🗻 Athletics, climbing, hiking above 2000 meters<br>
 -✈ Travelling all around the world
 
@@ -21,9 +31,9 @@
 <code><img alt="HTML" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
 <code><img alt="CSS" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" ></code>
 <code><img alt="JS" width="42px" height = "42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"></code>
-<code><img alt="JS" width= "120px" height = "42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png"></code>
-<hr>
+<code><img alt="NODE.JS" width= "120px" height = "42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png"></code>
 
+<hr>
 
 ## Progress and  achievements:
 
@@ -40,15 +50,15 @@
   <br>
   <br>
   <br>
-<a href ="https://www.credly.com/earner/earned/badge/db6334b6-9c64-4421-bec4-967556511fa2"><img align="left" alt="Word Office 2016" width="90px" src="https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a></code>
+<a href ="https://www.credly.com/earner/earned/badge/db6334b6-9c64-4421-bec4-967556511fa2"><img align="left" alt="HTML and CSS" width="90px" src="https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a>
   <br>
   <br>
   <br>
   <br>
-  <br>
-  <br>
+<a href ="https://www.credly.com/earner/earned/badge/db6334b6-9c64-4421-bec4-967556511fa2"><img align="left" alt="JavaScript" width="90px" src="https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" ></a></code>
 </details>
-
+<br>
+<br>
 
 <hr>
 
