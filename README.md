@@ -23,7 +23,7 @@
 <code><img alt="HTML" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
 <code><img alt="CSS" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" ></code>
 <code><img alt="JS" width="42px" height = "42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"></code>
-<code><img alt="NODE.JS" width= "130px" height = "42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png"></code>
+<code><img alt="GIT" width= "44px" height = "42px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 
 ## Progress and  achievements:
 
