@@ -1,22 +1,22 @@
-# Hello, I am [Iliyana Michevska](https://github.com/INMichevska20/INMichevska20/)👋
+<p align = "center"><img height="300px" src="https://i.ytimg.com/vi/kX0tq3qsY_U/maxresdefault.jpg"/></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=INMichevska20&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Iliyana Michevska</h1>
+<h3 align="center">I'm a student in VSCPI, Burgas.</h3>
 
-# Some information about me:
 
-<hr>
+## 🙋‍♂️ About Me
 
-## Personality:
--🎓I am a student in VSCPI<br>
--🧩I am interested in web development<br>
+- 🌱 I’m currently learning C++ and JavaScript.
 
-<img align="right" height="300" width="450" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/INMichevska20?tab=repositories)**.
 
-## Hobbies:
--🗻 Athletics, climbing, hiking above 2000 meters<br>
--✈ Travelling all around the world
+- 📫 You can reach me **INMichevska20@codingburgas.bg**
 
-## Language and Tools:
+- ⚡ My hobbies are athletics and travelling all around the world.
+
+<br>
+
+## 🚀 Languages and Tools:
 
 <code><img alt="CPP" width="38px" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" ></code>
 <code><img alt="PYTHON" width="43px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" ></code>
@@ -25,17 +25,11 @@
 <code><img alt="JS" width="42px" height = "42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"></code>
 <code><img alt="GIT" width= "44px" height = "42px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 
-## Progress and  achievements:
+<br>
+<br>
 
-<details>	
-  <summary><b>🔝 Progress</b></summary>
+## 🏆 Achievements:
 
-![Grade](https://github-readme-stats.vercel.app/api?username=INMichevska20&show_icons=true&theme=radical&count_private=true)
-</details>
-
-<details>
-<summary><b>🏆 Achievements</b></summary>
-  
 <code><a href ="https://www.credly.com/earner/earned/badge/df473dbb-8472-42d6-b9ed-c60faa484dc7"><img align="left" alt="Word Office 2016" width="90px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
   <br>
   <br>
@@ -46,19 +40,27 @@
   <br>
   <br>
 <a href ="https://www.credly.com/earner/earned/badge/e7554add-bc5a-4e0e-9445-6bef73440c2d"><img align="left" alt="JavaScript" width="90px" src="https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" ></a></code>
-</details>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+## 📊 My Github Stats
+
+  <br>
+    <a href="https://github.com/INMichevska20/github-readme-stats"><img width="460px" src="https://github-readme-stats.vercel.app/api?username=INMichevska20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<br>
+
+<a href="https://github.com/INMichevska20/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=INMichevska20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 <br>
 <br>
-
-## Connection:
-
-- 👁‍ You can see my repositories on [Github](https://github.com/INMichevska20?tab=repositories). 
-- 📧 My email is: INMichevska20@codingburgas.bg
-
-<hr>
 
 <div align="center">
 
-## Believe you can and you are halfway there!
+# Believe you can and you are halfway there!
 
 </div>
