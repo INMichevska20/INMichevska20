@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning C++ and JavaScript.
+- 🌱 I’m currently learning C++.
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/INMichevska20?tab=repositories)**.
 
@@ -19,11 +19,11 @@
 ## 🚀 Languages and Tools:
 
 <code><img alt="CPP" width="38px" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" ></code>
-<code><img alt="PYTHON" width="43px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" ></code>
+<code><img alt="JS" width="42px" height = "42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"></code>
 <code><img alt="HTML" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
 <code><img alt="CSS" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" ></code>
-<code><img alt="JS" width="42px" height = "42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"></code>
-<code><img alt="GIT" width= "44px" height = "42px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img alt="GIT" width= "45px" height = "44px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img alt="RAYLIB" width= "46px" height = "45px" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png"></code>
 
 <br>
 <br>
